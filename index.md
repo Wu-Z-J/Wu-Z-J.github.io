@@ -1,1 +1,1 @@
-##Posts
+<h2>Posts</h2>
