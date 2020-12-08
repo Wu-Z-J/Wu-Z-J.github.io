@@ -44,4 +44,3 @@ git remote add origin <仓库地址>	#把文件提交到指定仓库
 git push origin master			#添加到分支
 ```
 
-
